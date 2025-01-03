@@ -1,0 +1,10 @@
+newmtl figure
+Kd 0.2000 0.2000 0.2000
+Ka 0.0005 0.0005 0.0005
+illum 2
+
+newmtl floor
+Ks 0.7 0.7 0.7
+Kd 0.01 0.01 0.01
+Ns 1025
+illum 7
